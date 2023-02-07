@@ -1,5 +1,5 @@
 {
-  "name": "01-github-explorer",
+  "name": "08-github-explorer",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
+    "babel-polyfill": "^6.26.0",
     "json-server": "^0.16.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
